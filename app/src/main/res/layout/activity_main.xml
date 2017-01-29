@@ -50,7 +50,6 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center"
         android:textSize="30sp"
-        android:background="#2E3D49"
         android:text="毕业设计" />
 
 </LinearLayout>
