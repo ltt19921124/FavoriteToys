@@ -43,7 +43,6 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center"
         android:textSize="30sp"
-        android:paddingTop="30dp"
         android:text="最新闻"/>
 
     <Button
